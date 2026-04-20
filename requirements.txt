@@ -1,0 +1,9 @@
+pandas
+openpyxl
+requests
+beautifulsoup4
+python-dotenv
+pywin32
+google-search-results
+lxml
+pyinstaller
